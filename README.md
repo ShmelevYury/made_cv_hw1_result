@@ -8,4 +8,4 @@
 
 Прилагаю скриншот
 
-![Score](best_score.png)
+![Score](./best_score.png)
